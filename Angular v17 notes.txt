@@ -1,0 +1,14 @@
+- - - - - - ANGULAR V17 NOTES - - - - - -
+
++++GENERAL NOTES
+
+-npm install vs npm ci
+	package-lock.json değiştiyse npm install değişmediyse npm ci kullanmak hız açısından mantıklı
+	
+-npm start 
+	package.json --> scripts --> start içerisindeki scripti çalıştırır
+	
+-ng run build 
+	angular.json dosyasında tanımlanan projenin build konfigürasyonunu kullanarak	
+	
++++ANGULAR V17 MATERIALS
